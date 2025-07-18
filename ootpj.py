@@ -117,7 +117,7 @@
 # remove borders from the slider, the left arrow block and the right arrow block
 # resend the entire code
 
-# whenever there is a new line in the content block replace it with <br><br>
+# whenever there is a new line in the content block replace it with <br>
 # resend entire code
 
 # replace "thought 1...21" on each page in the content block with the text in the <font .....> ... </font> tags in the content as was before
@@ -771,8 +771,8 @@ def clean_content(content):
     content = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', content)
     content = re.sub(r'\*(.*?)\*', r'<em>\1</em>', content)
     
-    # Replace newlines with <br><br>
-    content = content.replace('\n', '<br><br>')
+    # Replace newlines with <br>
+    content = content.replace('\n', '<br>')
     
     return title, content.strip()
 
