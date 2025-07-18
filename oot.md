@@ -1,4 +1,4 @@
-# oot
+# Observations of Thoughts
 
 
 2025-05-14 07:27
@@ -24,7 +24,7 @@ I sit sideways on an orange couch, back to wall, arm placed comfortably on the b
 ![[Serenity.jpeg]]<font color="#f09e5a">Serenity</font>
 I walk up and sit a few paces away. My energy rings wafted his way. I see him tense up. He begins rocking sideways on his feet. I sit still. I drift toward my inner silence. The outer influences drift away. The water begins to look hazy and blends with the sky. The noises reduce to a low hum. My energy rings begin to dissipate. He senses the withdrawal - relaxes - and goes back to his own inner space. We sit in silence. We sit in harmony. We sit in unity 
 
-![[words.jpeg]]<font color="#f09e5a">Words</font>
+![[Words.jpeg]]<font color="#f09e5a">Words</font>
 At Houston Japanese garden - If each flower said one word, I would hear the bouquet say - “I let go of my grievances!!! I see beings - smiling, supporting and encouraging. Beings who are pure and pristine.  Beings who have shed their wrongs through penance and punishment. I am unable to walk towards my light. I too am cleansing myself of my burdens.“ 
 
 ![[Acknowledgement.jpeg]]<font color="#f09e5a">Acknowledgment </font>
