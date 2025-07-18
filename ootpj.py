@@ -772,7 +772,7 @@ def clean_content(content):
     content = re.sub(r'\*(.*?)\*', r'<em>\1</em>', content)
     
     # Replace newlines with <br>
-    content = content.replace('\n', '<br>')
+    content = content.replace('\n', '<br><br>')
     
     return title, content.strip()
 
