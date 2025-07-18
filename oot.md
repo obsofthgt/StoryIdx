@@ -1,4 +1,4 @@
-# Observations of Thoughts
+# oot
 
 
 2025-05-14 07:27
