@@ -230,7 +230,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         }
 
         body {
-            background-image: url('bkgrnd.jpeg');
+            background-image: url('Bkgrnd.jpeg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
