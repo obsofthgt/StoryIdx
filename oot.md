@@ -16,7 +16,9 @@ I lie on the floor, on my left side, my head on my arm. I drive a red matchbox C
 I become one with my being and my imagination. 
 
 ![[Wall.jpeg]]<font color="#f09e5a">Unity</font>
-I sit sideways on an orange couch, back to wall, arm placed comfortably on the back. I look past the metal accordion gate. I notice the randomly shaped - somewhat oval - light colored - moss patch on the compound wall - I notice the snails on that wall - I empathize that the rain drops flooded their underground home. I shift attention to to the brick oval landscaping on the ground. I see the rain droplets fall in the puddles in the oval. I watch the rings expand - see them bump into another ring - merge into it - and then again - and again - I follow the rings as they blend into each other - I can’t see the rings anymore - I feel the unity 
+I sit sideways on an orange couch, back to wall, arm placed comfortably on the back. I look past the metal accordion gate. I notice the randomly shaped - somewhat oval - light colored - moss patch on the compound wall - I notice the snails on that wall - I empathize that the rain drops flooded their underground home. 
+I shift attention to to the brick oval landscaping on the ground. I see the rain droplets fall in the puddles in the oval. I watch the rings expand - see them bump into another ring - merge into it - and then again - and again - I follow the rings as they blend into each other - I can’t see the rings anymore.
+I feel the unity 
 
 ![[Rope.jpeg]]<font color="#f09e5a">Silence</font>
 I sit sideways on an orange couch, back to wall, arm placed comfortably on the back. I look closely at the metal accordion gate. I notice the skipping rope hanging on the latch. I push the grip and watch the rope swing. I watch the swing reduce - and reduce - then slowly, begin to move in ever so small circles - now, I can now barely see it move - I watch the still, silent, unmoving rope - I feel the silence and the quiet within myself 
